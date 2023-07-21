@@ -27,7 +27,14 @@ namespace BulkyWeb.Controllers
         [HttpPost]
         public IActionResult Create(Category category)
         {
+            if (ModelState.IsValid)
+            {
+                context.Categories.Add(category);
+                context.SaveChanges();
+                return RedirectToAction("Index");
+            }
             return View();
+
         }
     }
 }
