@@ -31,10 +31,10 @@
                 <td>@item.DisplayOrder</td>
                 <td>
                     <div class="w-75 btnbtn-group" role="group">
-                        <a asp-action="Edit" class="btn btn-primary mx-2">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary mx-2">
                             <i class="bi bi-pencil-square"></i> Edit
                         </a>
-                        <a asp-action="Delete" class="btn btn-danger mx-2">
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger mx-2">
                             <i class="bi bi-trash-fill"></i> Delete
                         </a>
                     </div>
