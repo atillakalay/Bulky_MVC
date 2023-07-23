@@ -78,7 +78,7 @@ namespace BulkyWeb.Controllers
             }
             return View(categoryFromDb);
         }
-        [HttpPost,ActionName("Delete")]
+        [HttpPost, ActionName("Delete")]
         public IActionResult DeletePOST(int? id)
         {
             Category? category = _context.Categories.Find(id);
