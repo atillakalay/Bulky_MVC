@@ -251,3 +251,7 @@ C:\Users\Atilla\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\n
 C:\Users\Atilla\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Atilla\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Atilla\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Atilla\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\Atilla\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\Atilla\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\Atilla\source\repos\Bulky\BulkyWeb\bin\Debug\net7.0\Bulky.Models.pdb
