@@ -1,0 +1,12 @@
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\bin\Debug\net7.0\BulkyBook.Utility.deps.json
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\bin\Debug\net7.0\BulkyBook.Utility.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\bin\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\BulkyBook.Utility.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\BulkyBook.Utility.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Users\Atilla\source\repos\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\BulkyBook.Utility.dll

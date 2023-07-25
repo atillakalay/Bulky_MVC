@@ -1,0 +1,12 @@
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\bin\Debug\net7.0\BulkyBook.Models.deps.json
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\bin\Debug\net7.0\BulkyBook.Models.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\bin\Debug\net7.0\BulkyBook.Models.pdb
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\BulkyBook.Models.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\refint\BulkyBook.Models.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\BulkyBook.Models.pdb
+C:\Users\Atilla\source\repos\Bulky\Bulky.Models\obj\Debug\net7.0\ref\BulkyBook.Models.dll

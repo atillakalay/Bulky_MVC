@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4B8yESNRyKTavZaIU5sO7tB4xH8kPYuyAmebLa3wyAw0Nj0U2CKfmSfTPCz56P4yW/A7n+4GdymVGGoD3+VrVg==",
+  "dgSpecHash": "pWvf9q1n9585DXlh9K4JB/etRbEKT/NDzOiK2nX8w7PXqW8XTnguudK6Bfc6IeF9Lq5RTfgsC/Y8RE5eeN2BxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+  "projectFilePath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

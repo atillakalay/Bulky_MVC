@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
-      "projectName": "Bulky.Models",
-      "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
+      "projectName": "BulkyBook.Models",
+      "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\Atilla\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\obj\\",
       "projectStyle": "PackageReference",

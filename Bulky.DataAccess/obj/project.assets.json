@@ -1028,14 +1028,14 @@
           }
         }
       },
-      "Bulky.Models/1.0.0": {
+      "BulkyBook.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/BulkyBook.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/BulkyBook.Models.dll": {}
         }
       }
     }
@@ -3182,15 +3182,15 @@
         "version.txt"
       ]
     },
-    "Bulky.Models/1.0.0": {
+    "BulkyBook.Models/1.0.0": {
       "type": "project",
-      "path": "../Bulky.Models/Bulky.Models.csproj",
-      "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
+      "path": "../Bulky.Models/BulkyBook.Models.csproj",
+      "msbuildProject": "../Bulky.Models/BulkyBook.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Bulky.Models >= 1.0.0",
+      "BulkyBook.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Relational >= 7.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.9"
@@ -3203,9 +3203,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
-      "projectName": "Bulky.DataAccess",
-      "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj",
+      "projectName": "BulkyBook.DataAccess",
+      "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Atilla\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
@@ -3228,8 +3228,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+            "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj"
             }
           }
         }

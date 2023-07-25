@@ -1,0 +1,15 @@
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\bin\Debug\net7.0\BulkyBook.DataAccess.deps.json
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\bin\Debug\net7.0\BulkyBook.DataAccess.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\bin\Debug\net7.0\BulkyBook.DataAccess.pdb
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\bin\Debug\net7.0\BulkyBook.Models.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\bin\Debug\net7.0\BulkyBook.Models.pdb
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\refint\BulkyBook.DataAccess.dll
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\BulkyBook.DataAccess.pdb
+C:\Users\Atilla\source\repos\Bulky\Bulky.DataAccess\obj\Debug\net7.0\ref\BulkyBook.DataAccess.dll

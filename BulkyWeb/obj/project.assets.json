@@ -3899,30 +3899,30 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Bulky.DataAccess/1.0.0": {
+      "BulkyBook.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Bulky.Models": "1.0.0",
+          "BulkyBook.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.9",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9"
         },
         "compile": {
-          "bin/placeholder/Bulky.DataAccess.dll": {}
+          "bin/placeholder/BulkyBook.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.DataAccess.dll": {}
+          "bin/placeholder/BulkyBook.DataAccess.dll": {}
         }
       },
-      "Bulky.Models/1.0.0": {
+      "BulkyBook.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/BulkyBook.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/BulkyBook.Models.dll": {}
         }
       }
     }
@@ -11352,20 +11352,20 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Bulky.DataAccess/1.0.0": {
+    "BulkyBook.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../Bulky.DataAccess/Bulky.DataAccess.csproj",
-      "msbuildProject": "../Bulky.DataAccess/Bulky.DataAccess.csproj"
+      "path": "../Bulky.DataAccess/BulkyBook.DataAccess.csproj",
+      "msbuildProject": "../Bulky.DataAccess/BulkyBook.DataAccess.csproj"
     },
-    "Bulky.Models/1.0.0": {
+    "BulkyBook.Models/1.0.0": {
       "type": "project",
-      "path": "../Bulky.Models/Bulky.Models.csproj",
-      "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
+      "path": "../Bulky.Models/BulkyBook.Models.csproj",
+      "msbuildProject": "../Bulky.Models/BulkyBook.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Bulky.DataAccess >= 1.0.0",
+      "BulkyBook.DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.9",
@@ -11379,9 +11379,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
-      "projectName": "BulkyWeb",
-      "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
+      "projectName": "BulkyBookWeb",
+      "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\Atilla\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
@@ -11405,8 +11405,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+            "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Atilla\\source\\repos\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj"
             }
           }
         }

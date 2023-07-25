@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Atilla\\source\\repos\\Bulky\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+      "Id": "C:\\Users\\Atilla\\source\\repos\\Bulky\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Atilla\\source\\repos\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
-      "PackagePath": "build\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyBookWeb.props",
+      "PackagePath": "build\\BulkyBookWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
-      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBookWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBookWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
-      "PackagePath": "buildTransitive\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyBookWeb.props",
+      "PackagePath": "buildTransitive\\BulkyBookWeb.props"
     }
   ],
   "ElementsToRemove": []
